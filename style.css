@@ -141,6 +141,11 @@ button {
 	padding-right: 50px;
 }
 
+.container {
+	display: flex;
+	justify-content: center;
+}
+
 .quote {
 	display: flex;
 	flex-direction: column;
@@ -148,7 +153,6 @@ button {
 	justify-content: center;
 	align-items: center;
 	width: 1500px;
-	margin-left: 200px;
 	padding: 100px 0px 100px 0px;
 }
 
