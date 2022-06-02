@@ -16,6 +16,8 @@
 	font-weight: italic;
 }
 
+/* add variables when necessary (colors etc) */
+
 body {
 	font-family: Roboto, monospace;
 	margin: 0; /* this removes the white border of my divs */
